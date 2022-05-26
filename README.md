@@ -9,9 +9,7 @@ Expertise in cloud content, including reference architectures, design patterns, 
 Good understanding of SDLC, DDLC, Agile, DevOps, and Docs as Code key concepts. Experience in creating CI pipelines for publishing content using TravisCI, Amazon S3, and CloudFront services.
 
 Currently managing a team of Technical Writers, Documentation Managers, Information Architects, Editors, and Localization Project Managers who create cutting-edge content in DITA XML managed in SDL CCMS. The content is published under continuous integration with the Zoomin content delivery platform.
-
 <br>
-
 ### Find me around the web 🌎:
 
 <a href="https://www.linkedin.com/in/pooraniaravindan/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)?raw=true"> </a> 

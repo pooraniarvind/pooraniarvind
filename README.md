@@ -11,11 +11,3 @@ Good understanding of SDLC, DDLC, Agile, DevOps, and Docs as Code key concepts. 
 Currently managing a team of Technical Writers, Documentation Managers, Information Architects, Editors, and Localization Project Managers who create cutting-edge content in DITA XML managed in SDL CCMS. The content is published under continuous integration with the Zoomin content delivery platform.
 
 <img align="center" width="150" height="150" src="https://github.com/pooraniarvind/pooraniarvind.github.io/blob/master/images/poorani-rotating.gif?raw=true">
-
-### Find me around the web 🌎:
-<br>
-![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pooraniaravindan/)
-![](https://img.shields.io/badge/twitter-1ED760?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pooraniarvind)
-(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pooraniarvind@gmail.com)
-(https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pooraniarvind)
-(https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white](http://127.0.0.1:4000/jekyll/update/2022/05/12/welcome-to-jekyll.html)

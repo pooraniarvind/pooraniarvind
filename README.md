@@ -14,8 +14,8 @@ Currently managing a team of Technical Writers, Documentation Managers, Informat
 
 ### Find me around the web 🌎:
 <br>
-[!](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pooraniaravindan/)
-[!](https://img.shields.io/badge/twitter-1ED760?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pooraniarvind)
-[!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pooraniarvind@gmail.com)
-[!](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pooraniarvind)
-[!](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white](http://127.0.0.1:4000/jekyll/update/2022/05/12/welcome-to-jekyll.html)
+(https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pooraniaravindan/)
+(https://img.shields.io/badge/twitter-1ED760?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pooraniarvind)
+(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pooraniarvind@gmail.com)
+(https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pooraniarvind)
+(https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white](http://127.0.0.1:4000/jekyll/update/2022/05/12/welcome-to-jekyll.html)

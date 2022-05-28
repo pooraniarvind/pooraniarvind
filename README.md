@@ -17,3 +17,4 @@ Currently managing a team of Technical Writers, Documentation Managers, Informat
 [![](https://img.shields.io/badge/twitter-1ED760?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pooraniarvind)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pooraniarvind@gmail.com)
 [![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pooraniarvind)
+[![](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https:writethedocs.slack.com)

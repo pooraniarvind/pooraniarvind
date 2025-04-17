@@ -4,12 +4,12 @@
 
 Specialist in the area of content design and information management, with a career spanning more than 20+ years in the IT industry, handling and overseeing user centric content solutions for varied industries.
 
-<br>
+<br><br>
 Highly successful track record in consulting, design and development of solutions to enhance customer experience of content, setting up and growing documentation teams, and delivering high quality content solutions. 
-<br>
+<br><br>
 
 Managed multiple technical documentation programs across geographical locations. People-oriented leader with key skills in customer engagement building, customer expectation mapping and requirements analysis, arriving at effective documentation solutions, building competent documentation teams, and ensuring seamless delivery.
-<br>
+<br><br>
 
 Good understanding of SDLC, DDLC, Agile, DevOps, and Docs as Code key concepts. Experience in creating CI pipelines for publishing content using TravisCI, Amazon S3, and CloudFront services.
 

@@ -8,9 +8,9 @@ Highly successful track record in consulting, design and development of solution
 <br><br>
 Managed multiple technical documentation programs across geographical locations. People-oriented leader with key skills in customer engagement building, customer expectation mapping and requirements analysis, arriving at effective documentation solutions, building competent documentation teams, and ensuring seamless delivery.
 <br><br>
-Good understanding of SDLC, DDLC, Agile, DevOps, and Docs as Code key concepts. Experience in creating CI pipelines for publishing content using TravisCI, Amazon S3, and CloudFront services.
+Experience in creating CI pipelines for publishing content using TravisCI, Amazon S3, and CloudFront services.
 
-Currently managing a team of Technical Writers, Documentation Managers, Information Architects, Editors, and Localization Project Managers who create cutting-edge content in DITA XML managed in SDL CCMS. The content is published under continuous integration with the Zoomin content delivery platform.
+Currently managing a 50-member global team of documentation managers, technical writers, contractors, tools specialists, and technical editors at Avaya Inc.
 <br>
 ### Find me around the web 🌎:
 
